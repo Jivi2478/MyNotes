@@ -1,0 +1,24 @@
+{
+  "notes": [
+    {
+      "id": 1,
+      "updated": "2023-10-20T07:05:17.052Z",
+      "body": "First Note\n- Gotta be the first note\nhi\n\n"
+    },
+    {
+      "id": 2,
+      "body": "Schedule\n- Take out trash\n- Eat food\n- Shower\n",
+      "updated": "2023-10-20T06:52:02.160Z"
+    },
+    {
+      "id": 3,
+      "body": "Wash car\npickup",
+      "updated": "2023-10-20T06:37:37.761Z"
+    },
+    {
+      "body": "New Note\n",
+      "updated": "2023-10-20T06:31:02.805Z",
+      "id": 4
+    }
+  ]
+}
